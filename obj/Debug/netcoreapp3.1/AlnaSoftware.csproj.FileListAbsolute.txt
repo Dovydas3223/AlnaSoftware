@@ -1,0 +1,13 @@
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\bin\Debug\netcoreapp3.1\AlnaSoftware.exe
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\bin\Debug\netcoreapp3.1\AlnaSoftware.deps.json
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\bin\Debug\netcoreapp3.1\AlnaSoftware.runtimeconfig.json
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\bin\Debug\netcoreapp3.1\AlnaSoftware.runtimeconfig.dev.json
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\bin\Debug\netcoreapp3.1\AlnaSoftware.dll
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\bin\Debug\netcoreapp3.1\AlnaSoftware.pdb
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.csprojAssemblyReference.cache
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.AssemblyInfoInputs.cache
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.AssemblyInfo.cs
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.dll
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.pdb
+C:\Users\Dovydas\source\repos\AlnaSoftware\AlnaSoftware\obj\Debug\netcoreapp3.1\AlnaSoftware.genruntimeconfig.cache
